@@ -1,0 +1,33 @@
+_repo: Tr-ume-eines-Geistersehers-erl-utert-durch-Tr-ume-der-Metaphysik_36076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, I. (Immanuil)
+    - Kant, Emmanuel
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36076'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Metaphysics'
+- !lcsh 'Swedenborg, Emanuel, 1688-1772'
+- !lcc 'B'
+- !lcsh 'Spiritualism'
+title: Träume eines Geistersehers, erläutert durch Träume der Metaphysik
+url: http://www.gutenberg.org/ebooks/36076
