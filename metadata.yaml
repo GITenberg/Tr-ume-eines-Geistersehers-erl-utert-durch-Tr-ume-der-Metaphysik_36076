@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1426
     wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36076#Tr-ume-eines-Geistersehers-erl-utert-durch-Tr-ume-der-Metaphysik
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-05-10'
 gutenberg_type: Text
